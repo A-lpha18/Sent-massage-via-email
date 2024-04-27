@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    background-color: antiquewhite;
+    background-size: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.detail{
+    text-align: center;
+    margin-top: 200px;
+}
+h1{
+    margin-left: 45px;
+    background-color: transparent;
+}
+header{
+    background-color:#0077B5;
+}
+header:hover{
+    background-color: green;
+    color: whitesmoke;
+}
+.detail label{
+    color: green;
+    font-size: 22px;
+}
+#name{
+    height: 50px;
+    width: 310px;
+    text-align: center;
+    border: 4px solid green;
+    margin-left: 5px;
+    border-radius: 10px; 
+}
+
+#email{
+    height: 50px;
+    width: 310px;
+    text-align: center;
+    border: 4px solid green;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+#massage{
+    height: 150px;
+    width: 310px;
+    text-align: center;
+    margin-right: 25px;
+    margin-left: 5px;
+    border: 4px solid green;
+     border-radius: 10px;
+}
+#sent{
+    height: 40px;
+    width: 325px;
+    margin-left: 78px;
+    text-align: center;
+    border: 4px solid green;
+    border-radius: 10px;
+}
+#sent:hover{
+    background-color: green;
+    color: aliceblue;
+}
+
+.detail a{
+    color: green;
+    margin-left: 30px;
+    font-size: 2rem;
+    padding-right: 2px;
+    
+}
+#linkedin:hover{
+    color: #0077B5;
+}
+#github:hover{
+    color: #181717;
+}
+#insta:hover{
+    color: #405DE6;
+}
+#twitter:hover{
+    color:  #1DA1F2;
+}
+
+
